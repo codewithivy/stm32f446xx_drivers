@@ -33,7 +33,7 @@ The purpose of this repository is to dive deep into embedded systems programming
 
 ## Drivers Implemented
 
-### I2C
+### I2C(not compeleted)
 
 The I2C driver allows for communication between the microcontroller and various I2C-compatible devices, such as sensors and memory chips.
 
@@ -41,7 +41,7 @@ The I2C driver allows for communication between the microcontroller and various 
   - Master mode communication
   - Support for multi-byte reads and writes
 
-### SPI
+### SPI(not completed)
 
 The SPI driver is used to interact with external devices over the SPI protocol, such as EEPROMs, sensors, and displays.
 
